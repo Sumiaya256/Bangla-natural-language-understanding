@@ -7,6 +7,7 @@ to support cross-lingual and code-mixed NLU research for a widely spoken but low
 
 ## Dataset Structure
 
+```text
 The datasets are organized into the following domains:
 BNLU Dataset/
 ├── Healthcare.json
@@ -15,6 +16,7 @@ BNLU Dataset/
 ├── Education.json
 ├── Mobile_Financial_Services.json
 └── Government_Services.json
+```
 
 ## Overview
 | Property            |                         Value |
