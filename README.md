@@ -1,5 +1,5 @@
 # BanglaTOD Dataset
-This repository contains datasets collected and organized for research on Bangla Natural Language Understanding (NLU).
+This repository contains datasets collected and organized for research on Bangla Task Oriented Dataset.
 It is a A multi-domain, multilingual dataset for intent classification, and slot filling in Bangla. 
 Every utterance is written in parallel across three linguistic forms: Bangla (Bengali script), English, and Banglish (Romanized Bangla)
 to support cross-lingual and code-mixed NLU research for a widely spoken but low-resource language.
