@@ -1,4 +1,4 @@
-# Bangla Natural Language Understanding (BNLU) Dataset
+# BanglaTOD Dataset
 This repository contains datasets collected and organized for research on Bangla Natural Language Understanding (NLU).
 It is a A multi-domain, multilingual dataset for intent classification, and slot filling in Bangla. 
 Every utterance is written in parallel across three linguistic forms: Bangla (Bengali script), English, and Banglish (Romanized Bangla)
@@ -30,7 +30,7 @@ BNLU Dataset/
 ## Domain coverage
 | Domain                   | Dialogues | Intents |
 | ------------------------ | --------: | ------: |
-| Education                |        37 |       9 |
+| Education                |        50 |       9 |
 | Government Service       |        32 |      19 |
 | Healthcare               |        25 |       5 |
 | Mobile Financial Service |        25 |       5 |
